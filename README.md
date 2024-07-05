@@ -20,6 +20,8 @@ Libraries;
 * Firebase and
 * Tailwind
 
+![Animation](https://github.com/oranmehmetsirin/Clone-of-Twitter-X-2/blob/main/gif.gif?raw=true)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
